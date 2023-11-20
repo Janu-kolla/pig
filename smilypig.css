@@ -1,0 +1,104 @@
+.face{
+    height:200px;
+    width:200px;
+    background-color:pink;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+}
+
+.eye1{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background-color:black;
+    border-radius:50% ;
+    margin-left: 30px;
+    margin-top:60px;
+}
+.eye1-1{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background-color:white;
+    border-radius:50% ;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.eye2{
+        position: absolute;
+        height: 40px;
+        width: 40px;
+        background-color: black;
+        border-radius:50% ;
+        margin-left: 130px;
+        margin-top:60px;
+    }
+    .eye2-1{
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        background-color: white;
+        border-radius:50% ;
+        margin-left: 10px;
+        margin-top:10px;
+    }
+
+    .Mouth{
+        position: absolute;
+        height:30px;
+        width:60px;
+        background-color: hotpink;
+        border: 5px solid hotpink;
+        border-radius: 50%;
+        margin-left: 60px;
+        margin-top: 130px;
+        display: flex;
+        justify-content: space-around;
+        padding: 4px;
+        
+      
+}
+.nose1{
+    height: 25px;
+    width:15px;
+    border-radius: 50%;
+    background-color: rgb(72, 79, 79);
+    padding: 2px;
+    
+}
+.nose2{
+    height: 25px;
+    width:15px;
+    border-radius: 50%;
+    background-color: rgb(70, 82, 82);
+    padding: 2px;
+    
+}                                                                                                                                                                                               
+.ear1-1{
+    position:absolute;
+    height:40px;
+      width:30px;
+      background-color:hotpink;
+      border: 5px solid hotpink;
+      border-top-right-radius: 90%;
+      border-bottom-left-radius:30%;
+      margin-left: 20px;
+      margin-bottom: 80px;
+      justify-content: space-around;
+      padding: 1px;
+}  
+.ear2-1{
+    position:absolute;
+    height:40px;
+      width:30px;
+      background-color:hotpink;
+      border: 5px solid hotpink;
+      border-top-left-radius:90%;
+      border-bottom-right-radius: 30%;
+      margin-left: 150px;
+      margin-bottom: 80px;
+      justify-content: space-around;
+      padding: 1px;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
